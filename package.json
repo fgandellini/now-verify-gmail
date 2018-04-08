@@ -1,0 +1,16 @@
+{
+  "name": "now-verify-gmail",
+  "version": "1.0.0",
+  "description": "Verify a now login on a gmail account using a puppeteer script.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["now", "verify", "gmail"],
+  "author": "Federico Gandellini <fgandellini@gmail.com> (https://github.com/fgandellini)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "1.2.0"
+  }
+}
